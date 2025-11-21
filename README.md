@@ -44,10 +44,6 @@ jupyter notebook classification_model.ipynb
 jupyter notebook hidden_object_detection.ipynb
 ```
 
-### 3. Generate Deployment PDF (if needed)
-```bash
-python generate_pdf.py
-```
 
 ## 📊 Key Results
 
